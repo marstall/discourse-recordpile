@@ -1,0 +1,34 @@
+#main-outlet-wrapper {
+grid-template-columns: 0fr minmax(0, 1fr) !important;
+    
+}
+
+.category-breadcrumb li:nth-child(2),
+{
+    display:none;
+}
+
+#navigation-bar li:nth-child(4),
+{
+    display:none;
+}
+
+.nav-item_votes a:before{
+    content: "Most-";
+}
+
+.d-header-mode {
+    display:none;
+}
+
+.header-sidebar-toggle {
+    display:none;
+}
+
+// body {
+// background-color: #ccccdd !important;    
+// }
+
+// .d-header {
+//     background-color: #ddcccc !important;
+// }

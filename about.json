@@ -1,0 +1,36 @@
+{
+  "name": "recordpile",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "color_schemes": {
+    "WCAG Light": {
+      "primary": "000000",
+      "primary-medium": "696969",
+      "primary-low-mid": "909090",
+      "secondary": "ccccdd",
+      "tertiary": "9564af",
+      "quaternary": "9564af",
+      "header_background": "ebe1d6",
+      "header_primary": "000000",
+      "highlight": "ffff00",
+      "highlight-high": "9564af",
+      "highlight-medium": "e0e9ff",
+      "highlight-low": "e0e9ff",
+      "selected": "E2E9FE",
+      "hover": "F0F4FE",
+      "danger": "BB1122",
+      "success": "3d854d",
+      "love": "9D256B"
+    }
+  },
+  "modifiers": {
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
